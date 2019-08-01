@@ -1,8 +1,7 @@
 # Bienenprojekt_Ergebnisse
-<details>
-<summary>
-     <b> Zusammenhang verschiedener Daten insgesamt </b></summary>
-<br>
+
+## Zusammenhang verschiedener Daten insgesamt 
+
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_eCO2.jpg)
 
 Linear model Poly1:<br>
@@ -16,12 +15,6 @@ Goodness of fit:<br>
   R-square: 0.6057<br>
   Adjusted R-square: 0.6056<br>
   RMSE: 530<br>
-</details>
-
-
-
-Über den Matlab Code kann man aktuelle und vergangene Daten für das Bienenprojekt herunterladen und plotten lassen.
-
 
 
 # Ein-Monats-Verlauf
