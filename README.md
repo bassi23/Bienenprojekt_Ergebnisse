@@ -115,6 +115,12 @@
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juni/CO2_Temperatur.jpg)
 ### eCO<sub>2</sub> - Temperatur
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juni/eCO2_Temperatur.jpg)
+### eCO<sub>2</sub> - CO<sub>2</sub>
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juni/eCO2_CO2.jpg)
+
+
+
+
 ## Juli
 
 ### Temperatur - Zeit
