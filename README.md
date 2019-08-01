@@ -27,19 +27,20 @@ Goodness of fit:<br>
 ## Juli
 
 ### Temperatur - Zeit
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Temperatur_July.jpg)
 
 ### Luftdruck - Zeit
-
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Luftdruck_July.jpg)
 ### rel. Luftfeuchte - Zeit
-
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Luftfeuchte_July.jpg)
 ### TVOC - Zeit
-
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/TVOC_July.jpg)
 ### CO<sub>2</sub> - Zeit
-
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_July.jpg)
 ### eCO<sub>2</sub> - Zeit
-
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/eCO2_July.jpg)
 ### CO<sub>2</sub> - Temperatur
-
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_Temperatur_July.jpg)
 ### eCO<sub>2</sub> - Temperatur
 
-![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_eCO2.jpg)
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/eCO2_Temperatur.jpg)
