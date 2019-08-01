@@ -117,7 +117,22 @@
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juni/eCO2_Temperatur.jpg)
 ### eCO<sub>2</sub> - CO<sub>2</sub>
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juni/eCO2_CO2.jpg)
+<b> Lineare Fitdaten </b><br>
+<b> f(x) = p<sub>1</sub> * x + p<sub>2</sub> </b> <br>
 
+| Coefficients  | Values |
+| ------------- | ------------- |
+| p<sub>1</sub>  | 0.3088  (0.2972, 0.3203)|
+| p<sub>2</sub>  | 245.1  (183.9, 306.3)|
+<br>
+<b>Goodnes of fit: </b> <br>
+
+| Coefficients  | Values |
+| ------------- | ------------- |
+| SSE  |4.681e+08|
+| R-square  | 0.637|
+| Adjusted R-square  | 0.6368|
+| RMSE  | 548.3|
 
 
 
