@@ -5,17 +5,17 @@
 ## Zusammenhang verschiedener Daten insgesamt
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_eCO2.jpg)
 
-Linear model Poly1:
-     f(x) = p1*x + p2
-Coefficients (with 95% confidence bounds):
-       p1 =      0.2871  (0.2797, 0.2944)
-       p2 =         270  (235.1, 304.9)
-
-Goodness of fit:
-  SSE: 1.071e+09
-  R-square: 0.6057
-  Adjusted R-square: 0.6056
-  RMSE: 530
+Linear model Poly1:<br>
+     f(x) = p1*x + p2<br>
+Coefficients (with 95% confidence bounds):<br>
+       p1 =      0.2871  (0.2797, 0.2944)<br>
+       p2 =         270  (235.1, 304.9)<br>
+<br>
+Goodness of fit:<br>
+  SSE: 1.071e+09<br>
+  R-square: 0.6057<br>
+  Adjusted R-square: 0.6056<br>
+  RMSE: 530<br>
 
 
 # Ein-Monats-Verlauf
@@ -34,12 +34,12 @@ Goodness of fit:
 
 ### TVOC - Zeit
 
-### CO_2 - Zeit
+### CO<sub>2</sub> - Zeit
 
-### eCO_2 - Zeit
+### eCO<sub>2</sub> - Zeit
 
-### CO_2 - Temperatur
+### CO<sub>2</sub> - Temperatur
 
-### eCO_2 - Temperatur
+### eCO<sub>2</sub> - Temperatur
 
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_eCO2.jpg)
