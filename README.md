@@ -2,7 +2,7 @@
 
 ## Zusammenhang verschiedener Daten insgesamt 
 
-![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_eCO2.jpg)
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_eCO2_gesamt.jpg)
 
 Linear model Poly1:<br>
      f(x) = p1*x + p2<br>
@@ -15,6 +15,25 @@ Goodness of fit:<br>
   R-square: 0.6057<br>
   Adjusted R-square: 0.6056<br>
   RMSE: 530<br>
+
+
+
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/TVOC_luftfeuchte_gesamt.jpg)
+
+Linear model Poly1:
+     f(x) = p1*x + p2
+Coefficients (with 95% confidence bounds):
+       p1 =       28.51  (27.18, 29.85)
+       p2 =      -889.1  (-963.5, -814.7)
+
+Goodness of fit:
+  SSE: 4.238e+08
+  R-square: 0.2915
+  Adjusted R-square: 0.2914
+  RMSE: 315.4
+
+
+
 
 
 # Ein-Monats-Verlauf
