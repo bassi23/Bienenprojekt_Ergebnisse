@@ -139,18 +139,18 @@
 ## Juli
 
 ### Temperatur - Zeit
-![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/Temperatur.jpg)
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/Temperatur_Zeit.jpg)
 
 ### Luftdruck - Zeit
-![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/Luftdruck.jpg)
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/Luftdruck_Zeit.jpg)
 ### rel. Luftfeuchte - Zeit
-![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/Luftfeuchte.jpg)
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/Luftfeuchte_Zeit.jpg)
 ### TVOC - Zeit
-![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/TVOC.jpg)
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/TVOC_Zeit.jpg)
 ### CO<sub>2</sub> - Zeit
-![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/CO2.jpg)
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/CO2_Zeit.jpg)
 ### eCO<sub>2</sub> - Zeit
-![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/eCO2.jpg)
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/eCO2_Zeit.jpg)
 ### CO<sub>2</sub> - Temperatur
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/Juli/CO2_Temperatur.jpg)
 ### eCO<sub>2</sub> - Temperatur
