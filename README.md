@@ -1,6 +1,7 @@
 # Bienenprojekt_Ergebnisse
 <details>
-<summary>## Zusammenhang verschiedener Daten insgesamt</summary>
+<summary>
+     <b> Zusammenhang verschiedener Daten insgesamt </b></summary>
 <br>
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_eCO2.jpg)
 
