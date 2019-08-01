@@ -27,20 +27,22 @@
 
 
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/TVOC_luftfeuchte_gesamt.jpg)
+<b> Lineare Fitdaten </b><br>
+<b> f(x) = p<sub>1</sub> * x + p<sub>2</sub> </b> <br>
 
-Linear model Poly1:
-     f(x) = p1*x + p2
-Coefficients (with 95% confidence bounds):
-       p1 =       28.51  (27.18, 29.85)
-       p2 =      -889.1  (-963.5, -814.7)
+| Coefficients  | Values |
+| ------------- | ------------- |
+| p<sub>1</sub>  | 28.51  (27.18, 29.85)|
+| p<sub>2</sub>  | -889.1  (-963.5, -814.7)|
+<br>
+<b>Goodnes of fit: </b> <br>
 
-Goodness of fit:
-  SSE: 4.238e+08
-  R-square: 0.2915
-  Adjusted R-square: 0.2914
-  RMSE: 315.4
-
-
+| Coefficients  | Values |
+| ------------- | ------------- |
+| SSE  |4.238e+08|
+| R-square  | 0.2915|
+| Adjusted R-square  | 0.2914|
+| RMSE  | 315.4|
 
 
 
