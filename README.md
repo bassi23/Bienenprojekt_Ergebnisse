@@ -4,17 +4,22 @@
 
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_eCO2_gesamt.jpg)
 
-Linear model Poly1:<br>
-     f(x) = p1*x + p2<br>
-Coefficients (with 95% confidence bounds):<br>
-       p1 =      0.2871  (0.2797, 0.2944)<br>
-       p2 =         270  (235.1, 304.9)<br>
 <br>
-Goodness of fit:<br>
-  SSE: 1.071e+09<br>
-  R-square: 0.6057<br>
-  Adjusted R-square: 0.6056<br>
-  RMSE: 530<br>
+<b> Lineare Fitdaten </b><br>
+<b> f(x) = p<sub>1</sub> * x + p<sub>2</sub> </b> <br>
+| Coefficients  | Second Header |
+| ------------- | ------------- |
+| p<sub>1</sub>  | 0.2871 (0.2797, 0.2944)|
+| p<sub>2</sub>  | 270  (235.1, 304.9)|
+
+<br>
+<b>Goodnes of fit: </b> <br>
+
+| SSE  |1.071e+09|
+| R-square  | 0.6057|
+| Adjusted R-square  | 0.6056|
+| RMSE  | 530|
+<br>
 
 
 
