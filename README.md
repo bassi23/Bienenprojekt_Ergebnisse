@@ -26,6 +26,54 @@
 
 
 
+
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/TVOC_CO2_gesamt.jpg)
+
+<br>
+<b> Lineare Fitdaten </b><br>
+<b> f(x) = p<sub>1</sub> * x + p<sub>2</sub> </b> <br>
+
+| Coefficients  | Values |
+| ------------- | ------------- |
+| p<sub>1</sub>  |0.1302  (0.1269, 0.1336)|
+| p<sub>2</sub>  |154.6  (139.1, 170.1)|
+
+<br>
+<b>Goodnes of fit: </b> <br>
+
+| Coefficients  | Values |
+| ------------- | ------------- |
+| SSE  |2.523e+08|
+| R-square  |0.5783|
+| Adjusted R-square  | 0.5782|
+| RMSE  | 243.4|
+<br>
+
+
+![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/CO2_TemperaturKontrolle_gesamt.jpg)
+
+<br>
+<b> Lineare Fitdaten </b><br>
+<b> f(x) = p<sub>1</sub> * x + p<sub>2</sub> </b> <br>
+
+| Coefficients  | Values |
+| ------------- | ------------- |
+| p<sub>1</sub>  | -159.1  (-165, -153.1)|
+| p<sub>2</sub>  |7270  (7140, 7400)|
+
+<br>
+<b>Goodnes of fit: </b> <br>
+
+| Coefficients  | Values |
+| ------------- | ------------- |
+| SSE  |1.252e+10|
+| R-square  |0.3901|
+| Adjusted R-square  | 0.39|
+| RMSE  | 1710|
+<br>
+
+
+
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/TVOC_luftfeuchte_gesamt.jpg)
 <b> Lineare Fitdaten </b><br>
 <b> f(x) = p<sub>1</sub> * x + p<sub>2</sub> </b> <br>
