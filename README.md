@@ -8,7 +8,7 @@
 <b> Lineare Fitdaten </b><br>
 <b> f(x) = p<sub>1</sub> * x + p<sub>2</sub> </b> <br>
 
-| Coefficients  | Second Header |
+| Coefficients  | Values |
 | ------------- | ------------- |
 | p<sub>1</sub>  | 0.2871 (0.2797, 0.2944)|
 | p<sub>2</sub>  | 270  (235.1, 304.9)|
@@ -16,16 +16,14 @@
 <br>
 <b>Goodnes of fit: </b> <br>
 
+| Coefficients  | Values |
+| ------------- | ------------- |
 | SSE  |1.071e+09|
 | R-square  | 0.6057|
 | Adjusted R-square  | 0.6056|
 | RMSE  | 530|
 <br>
 
-| Coefficients  | Second Header |
-| ------------- | ------------- |
-| p<sub>1</sub>  | 0.2871 (0.2797, 0.2944)|
-| p<sub>2</sub>  | 270  (235.1, 304.9)|
 
 
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/TVOC_luftfeuchte_gesamt.jpg)
