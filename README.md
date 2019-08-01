@@ -21,6 +21,11 @@
 | RMSE  | 530|
 <br>
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 ![alt text](https://github.com/bassi23/Bienenprojekt_Ergebnisse/blob/master/TVOC_luftfeuchte_gesamt.jpg)
