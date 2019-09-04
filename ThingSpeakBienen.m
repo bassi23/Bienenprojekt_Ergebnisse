@@ -11,11 +11,11 @@ start = "May 14, 2019";
 fin = datetime(now, 'ConvertFrom', 'datenum');
 
 % 2. Schritt: Welcher Zeitbereich soll gezeichnet werden?
-startPlot = "July 15, 2019 08:00:00";
-endPlot = "July 31, 2019 18:00:00";
+startPlot = "May 14, 2019 08:00:00";
+endPlot = "September 04, 2019 12:00:00";
 
 % 3. Schritt: Sollen Daten gemittelt werden? Falls ja, wieviele?
-averaging_values = 10;
+averaging_values = 20;
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -226,7 +226,7 @@ plot(average_bee_time, average_bee_TVOC, average_time, average_TVOC);
 % 5. Schritt: Was soll auf der x-Achse stehen?
 xlabel('Zeit');
 % 6. Schritt: Was soll auf der y-Achse stehen?
-ylabel('Luftfeuchte in %');
+ylabel('TVOC in ppb');
 xlim([tstart tend]);
 grid on;
 
